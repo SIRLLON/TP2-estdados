@@ -1,5 +1,5 @@
 # TP2-estdados
 
-Este repositório contém a entrega do Trabalho Prático 2 (TP2), focado na implementação e análise de estruturas Trie e Grafos (Lista e Matriz de Adjacência).
-A solução inclui algoritmos de busca exata, busca por prefixo, autocomplete ordenado, autocorrect e exportação do grafo no formato Mermaid.
-O código está totalmente estruturado no formato Jupyter Notebook (.ipynb) compatível com o Google Colab, com explicações teóricas e linguagem impessoal.
+Código do TP2, cobrindo a criação prática de estruturas Trie e Grafos (Lista e Matriz).
+O projeto traz funções de busca, autocomplete, corretor ortográfico e exportação de grafos para diagramas Mermaid.
+Tudo está organizado em um arquivo de notebook pronto para rodar direto no Google Colab, sem complicações.
